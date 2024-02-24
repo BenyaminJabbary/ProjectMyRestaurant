@@ -1,0 +1,58 @@
+{"level":"info","AppName":"Restaurant","time":"2024-02-24T15:20:33Z","message":"Start of main"}
+{"level":"info","AppName":"Restaurant","getOrderService":"GetOrder","time":"2024-02-24T15:20:33Z","message":"Start of GetOrder"}
+{"level":"info","AppName":"Restaurant","getOrderService":"GetFood","time":"2024-02-24T15:20:33Z","message":"Start of GetFood"}
+{"level":"info","AppName":"Restaurant","calculatorPrice":"CalculatePriceFood","time":"2024-02-24T15:21:45Z","message":"Start of CalculatePriceFood"}
+{"level":"info","AppName":"Restaurant","calculatorPrice":"CalculatePriceFood","time":"2024-02-24T15:22:11Z","message":"End of CalculatePriceFood"}
+{"level":"info","AppName":"Restaurant","getOrderService":"GetFood","time":"2024-02-24T15:22:11Z","message":"End of GetFood"}
+{"level":"info","AppName":"Restaurant","getOrderService":"GetDrink","time":"2024-02-24T15:22:11Z","message":"Start of GetDrink"}
+{"level":"error","AppName":"Restaurant","error":"this drink is not available","getOrderService":"GetDrink","time":"2024-02-24T15:22:20Z","message":"Error is at GetDrink"}
+{"level":"info","AppName":"Restaurant","getOrderService":"GetDrink","time":"2024-02-24T15:22:20Z","message":"End of GetDrink"}
+{"level":"info","AppName":"Restaurant","getOrderService":"GetOrder","time":"2024-02-24T15:22:20Z","message":"End of GetOrder"}
+{"level":"info","AppName":"Restaurant","time":"2024-02-24T15:22:20Z","message":"End of main"}
+{"level":"info","AppName":"Restaurant","time":"2024-02-24T15:35:23Z","message":"Start of main"}
+{"level":"info","AppName":"Restaurant","getOrderService":"GetOrder","time":"2024-02-24T15:35:23Z","message":"Start of GetOrder"}
+{"level":"info","AppName":"Restaurant","getOrderService":"GetFood","time":"2024-02-24T15:35:23Z","message":"Start of GetFood"}
+{"level":"error","AppName":"Restaurant","error":"error occurred","getOrderService":"GetFood","time":"2024-02-24T15:35:31Z","message":"Error is at GetFood"}
+{"level":"error","AppName":"Restaurant","error":"error occurred","getOrderService":"GetFood","time":"2024-02-24T15:35:31Z","message":"Error is at GetFood"}
+{"level":"warn","AppName":"Restaurant","getOrderService":"GetFood","time":"2024-02-24T15:35:31Z","message":"Warn is at GetFood"}
+{"level":"info","AppName":"Restaurant","getOrderService":"GetFood","time":"2024-02-24T15:35:31Z","message":"End of GetFood"}
+{"level":"info","AppName":"Restaurant","getOrderService":"GetDrink","time":"2024-02-24T15:35:31Z","message":"Start of GetDrink"}
+{"level":"error","AppName":"Restaurant","error":"error occurred","getOrderService":"GetDrink","time":"2024-02-24T15:35:59Z","message":"Error is at GetDrink"}
+{"level":"info","AppName":"Restaurant","calculatorPrice":"CalculatePriceDrink","time":"2024-02-24T15:35:59Z","message":"Start of CalculatePriceDrink"}
+{"level":"info","AppName":"Restaurant","calculatorPrice":"CalculatePriceDrink","time":"2024-02-24T15:36:01Z","message":"End of CalculatePriceDrink"}
+{"level":"info","AppName":"Restaurant","getOrderService":"GetDrink","time":"2024-02-24T15:36:01Z","message":"End of GetDrink"}
+{"level":"info","AppName":"Restaurant","getOrderService":"GetOrder","time":"2024-02-24T15:36:01Z","message":"End of GetOrder"}
+{"level":"info","AppName":"Restaurant","time":"2024-02-24T15:36:01Z","message":"End of main"}
+{"level":"info","AppName":"Restaurant","time":"2024-02-24T15:38:28Z","message":"Start of main"}
+{"level":"info","AppName":"Restaurant","getOrderService":"GetOrder","time":"2024-02-24T15:38:28Z","message":"Start of GetOrder"}
+{"level":"info","AppName":"Restaurant","getOrderService":"GetFood","time":"2024-02-24T15:38:28Z","message":"Start of GetFood"}
+{"level":"info","AppName":"Restaurant","calculatorPrice":"CalculatePriceFood","time":"2024-02-24T15:38:35Z","message":"Start of CalculatePriceFood"}
+{"level":"info","AppName":"Restaurant","calculatorPrice":"CalculatePriceFood","time":"2024-02-24T15:38:37Z","message":"End of CalculatePriceFood"}
+{"level":"info","AppName":"Restaurant","getOrderService":"GetFood","time":"2024-02-24T15:38:37Z","message":"End of GetFood"}
+{"level":"info","AppName":"Restaurant","getOrderService":"GetDrink","time":"2024-02-24T15:38:37Z","message":"Start of GetDrink"}
+{"level":"error","AppName":"Restaurant","error":"error occurred","getOrderService":"GetDrink","time":"2024-02-24T15:38:45Z","message":"Error is at GetDrink"}
+{"level":"info","AppName":"Restaurant","getOrderService":"GetDrink","time":"2024-02-24T15:38:45Z","message":"End of GetDrink"}
+{"level":"info","AppName":"Restaurant","getOrderService":"GetOrder","time":"2024-02-24T15:38:45Z","message":"End of GetOrder"}
+{"level":"info","AppName":"Restaurant","time":"2024-02-24T15:38:45Z","message":"End of main"}
+{"level":"info","AppName":"Restaurant","time":"2024-02-24T15:45:08Z","message":"Start of main"}
+{"level":"info","AppName":"Restaurant","getOrderService":"GetOrder","time":"2024-02-24T15:45:08Z","message":"Start of GetOrder"}
+{"level":"info","AppName":"Restaurant","getOrderService":"GetFood","time":"2024-02-24T15:45:08Z","message":"Start of GetFood"}
+{"level":"warn","AppName":"Restaurant","getOrderService":"GetFood","time":"2024-02-24T15:45:20Z","message":"Warn is at GetFood"}
+{"level":"info","AppName":"Restaurant","getOrderService":"GetFood","time":"2024-02-24T15:45:20Z","message":"End of GetFood"}
+{"level":"info","AppName":"Restaurant","getOrderService":"GetDrink","time":"2024-02-24T15:45:20Z","message":"Start of GetDrink"}
+{"level":"error","AppName":"Restaurant","error":"error occurred","getOrderService":"GetDrink","time":"2024-02-24T15:45:21Z","message":"Error is at GetDrink"}
+{"level":"info","AppName":"Restaurant","getOrderService":"GetDrink","time":"2024-02-24T15:45:21Z","message":"End of GetDrink"}
+{"level":"info","AppName":"Restaurant","getOrderService":"GetOrder","time":"2024-02-24T15:45:21Z","message":"End of GetOrder"}
+{"level":"warn","AppName":"Restaurant","Restaurant":"main","time":"2024-02-24T15:45:21Z","message":"the order was not completed"}
+{"level":"info","AppName":"Restaurant","time":"2024-02-24T15:45:21Z","message":"End of main"}
+{"level":"info","AppName":"Restaurant","time":"2024-02-24T15:51:00Z","message":"Start of main"}
+{"level":"info","AppName":"Restaurant","getOrderService":"GetOrder","time":"2024-02-24T15:51:00Z","message":"Start of GetOrder"}
+{"level":"info","AppName":"Restaurant","getOrderService":"GetFood","time":"2024-02-24T15:51:00Z","message":"Start of GetFood"}
+{"level":"error","AppName":"Restaurant","error":"select food is empty","getOrderService":"GetFood","time":"2024-02-24T15:51:01Z","message":"Error is at GetFood"}
+{"level":"info","AppName":"Restaurant","getOrderService":"GetFood","time":"2024-02-24T15:51:01Z","message":"End of GetFood"}
+{"level":"info","AppName":"Restaurant","getOrderService":"GetDrink","time":"2024-02-24T15:51:01Z","message":"Start of GetDrink"}
+{"level":"info","AppName":"Restaurant","calculatorPrice":"CalculatePriceDrink","time":"2024-02-24T15:51:08Z","message":"Start of CalculatePriceDrink"}
+{"level":"info","AppName":"Restaurant","calculatorPrice":"CalculatePriceDrink","time":"2024-02-24T15:51:11Z","message":"End of CalculatePriceDrink"}
+{"level":"info","AppName":"Restaurant","getOrderService":"GetDrink","time":"2024-02-24T15:51:11Z","message":"End of GetDrink"}
+{"level":"info","AppName":"Restaurant","getOrderService":"GetOrder","time":"2024-02-24T15:51:11Z","message":"End of GetOrder"}
+{"level":"info","AppName":"Restaurant","time":"2024-02-24T15:51:11Z","message":"End of main"}
